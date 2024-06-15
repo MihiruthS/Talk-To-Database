@@ -4,6 +4,9 @@ This repository contains a Streamlit application designed to manage a T-shirt in
 
 ## Tool Preview
 
+![Screenshot 2024-06-15 184018](https://github.com/MihiruthS/Talk-To-Database/assets/166645514/022df4c8-4a55-4ef3-a552-b64220787853)
+![Screenshot 2024-06-15 183934](https://github.com/MihiruthS/Talk-To-Database/assets/166645514/9d147386-c5fa-491e-9023-67a51a3b4625)
+
 ### Features
 - **NLP-Driven Q&A**: Users can ask natural language questions about the T-shirt inventory, and the system responds with precise answers generated from corresponding SQL queries.
 - **Streamlit Interface**: Provides an intuitive and user-friendly web interface for inputting questions and viewing answers.
