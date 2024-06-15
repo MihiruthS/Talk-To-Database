@@ -35,6 +35,6 @@ LangChain is a powerful tool that integrates with various NLP and machine learni
 - "How much is the total price of the inventory for all S-size T-shirts?"
 - "If we sell all Levi’s T-shirts today with applied discounts, how much revenue will our store generate?"
 
-## acknowledgements
+## Acknowledgements
 
 This project is done referring to the tutorials of Codebasics YouTube channel ([Codebasics YouTube](https://www.youtube.com/@codebasics)).
